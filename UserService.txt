@@ -1,4 +1,4 @@
 Get user Data.
 added users.
 User Name and Password added.
-User pics added
+User pics added.
